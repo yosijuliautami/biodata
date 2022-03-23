@@ -1,0 +1,42 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #56b46a;
+    background-size: cover;
+}
+.home-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.home-heading h3{
+    font-size: 2.4rem;
+    color: #2b2b2b;
+    font-weight: 600;
+}
+.box{
+    width: 500px;
+    background: #E7DFDD;
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    margin-top: 1%;
+    color: black;
+    font-family: "century gothic, sans-serif";
+}
+
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+.table th td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: black;
+}
